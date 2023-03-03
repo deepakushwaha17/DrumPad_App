@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.DrumPad" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#0E171E</item>
+        <item name="colorPrimaryDark">#0E171E</item>
+        <item name="colorAccent">#ff0258</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
